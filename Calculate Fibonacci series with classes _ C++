@@ -6,6 +6,8 @@ class Fibonacci {
 
 
 public:
+
+//define variables
 	int x, y, z;
 	void generate(int);
 };
