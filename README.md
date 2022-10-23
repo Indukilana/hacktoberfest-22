@@ -1,5 +1,5 @@
-<h1 align="center"> Hactoberfest-2021</h1>
-<h2 align="center">You can put PRs for Hactoberfest 2021</h2>
+<h1 align="center"> Hactoberfest-2022</h1>
+<h2 align="center">You can put PRs for Hactoberfest 2022</h2>
 
 <h3 align="center">
   <strong>TASKS</strong>
