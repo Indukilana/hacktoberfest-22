@@ -10,7 +10,7 @@
     <h3 align="center"><strong>Let's have some Fun!</strong></h3>
 
 
-  <h1 align="center"><i>Happy</i></h1>
+  <h1 align="center"><i>Happy Coding</i></h1>
   
 <p align="center">
   <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="hactoberfest 2022">
